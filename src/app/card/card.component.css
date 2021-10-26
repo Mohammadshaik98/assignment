@@ -1,0 +1,172 @@
+/* 1.... */
+
+.btn:hover{
+    background-color: rgb(86, 168, 240);
+}
+.btn{
+    cursor: pointer;
+    background-color: rgb(224, 224, 224);
+}
+
+/* chosencard */
+
+.chosencard{
+    margin-left: 350px;
+    margin-top: -90px;
+    
+}
+.chosenheader{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(37, 37, 37);
+    width:300px
+}
+.edit{
+    margin-left: 20px;
+}
+
+.choseninfra{
+    margin-top: -10px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+.chosencurrency{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+
+.numberofvms{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+.productdition{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+.virtualisationhost{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+
+.storagetype{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+.infracost1{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+
+.infracost2{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;  
+}
+
+.vmdensity{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+
+.additionalvm{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+.timeframe{
+    margin-top: 3px;
+    color: rgb(78, 78, 78);
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 300px;
+    height: 55px;
+}
+
+/* Currency_header  */
+.Currency{
+    width: 300px;
+    background-color: rgb(230, 230, 230)
+}
+
+
+
+/* VM Count */
+.VM_header{
+    width: 550px;
+}
+.inputnumber{
+    width: 300px;
+    background-color: rgb(230, 230, 230);
+}
+
+
+
+/* which vm header */
+.Which_VM_header{
+    width: 550px;
+}
+
+
+.checkbox{
+    width: 30px;
+    height: 30px;
+    border-radius: 0%;
+    background-color: rgb(230, 230, 230)
+}
+.checkbox:checked{
+    background-color: blue;
+}
+
+
+.results_button:disabled{
+    cursor: no-drop;
+    background-color: rgb(175, 175, 175)
+}
+.results_button:enabled{
+    cursor: pointer;
+    color: blue;
+}
+.results_button{
+    background-color: blue;
+}
+
+
+
+
